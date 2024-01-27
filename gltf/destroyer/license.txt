@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hiigaran Destroyer
+* source:	https://sketchfab.com/3d-models/hiigaran-destroyer-f58847896e00446095e8a87da8ce308f
+* author:	MrHohenheim (https://sketchfab.com/mrhohenheim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hiigaran Destroyer" (https://sketchfab.com/3d-models/hiigaran-destroyer-f58847896e00446095e8a87da8ce308f) by MrHohenheim (https://sketchfab.com/mrhohenheim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

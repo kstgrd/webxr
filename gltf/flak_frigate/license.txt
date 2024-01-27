@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hiigaran Flak Frigate
+* source:	https://sketchfab.com/3d-models/hiigaran-flak-frigate-a1e1c27492114c2991c7a0c6ae961d33
+* author:	MrHohenheim (https://sketchfab.com/mrhohenheim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hiigaran Flak Frigate" (https://sketchfab.com/3d-models/hiigaran-flak-frigate-a1e1c27492114c2991c7a0c6ae961d33) by MrHohenheim (https://sketchfab.com/mrhohenheim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

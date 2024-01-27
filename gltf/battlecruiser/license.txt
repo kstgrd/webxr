@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hiigaran Battlecruiser
+* source:	https://sketchfab.com/3d-models/hiigaran-battlecruiser-5f8261612be84aa682d5cc77a5b475ee
+* author:	MrHohenheim (https://sketchfab.com/mrhohenheim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hiigaran Battlecruiser" (https://sketchfab.com/3d-models/hiigaran-battlecruiser-5f8261612be84aa682d5cc77a5b475ee) by MrHohenheim (https://sketchfab.com/mrhohenheim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
